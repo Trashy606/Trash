@@ -5,14 +5,14 @@
     "notification": true,
     "approval": true,
     "premium": false,
-    "BOTNAME": "",
-    "BOTOWNER": "",
-    "PREFIX": "!",
+    "BOTNAME": "trash",
+    "BOTOWNER": "Thataone",
+    "PREFIX": "-",
     "OPERATOR": [
-        ""
+        "100079267516878"
     ],
     "ADMINBOT": [
-        ""
+        "100079267516878"
     ],
     "disabledcmds": [],
     "disabledevents": [],
